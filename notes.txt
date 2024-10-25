@@ -1,0 +1,7 @@
+- `app/layout.tsx` , `app/middleware.tsx` , `app/global.css`
+- `config/*`
+- `utils/*`
+- `package.json` , `.env.*`
+- `tailwind.config.ts`, `tsconfig.json` 
+- `index.d.ts`
+- `next.config.mjs`
