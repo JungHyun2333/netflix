@@ -9,7 +9,7 @@ export type Json =
 export type Database = {
   public: {
     Tables: {
-      movie: {
+      movies: {
         Row: {
           id: number
           image_url: string
