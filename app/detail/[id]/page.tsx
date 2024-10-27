@@ -1,4 +1,3 @@
-import { Diversity1 } from "@mui/icons-material";
 import { getMovie } from "actions/movie-action";
 
 export async function generateMetadata({ params, searchParams }) {
